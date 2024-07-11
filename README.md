@@ -1,2 +1,2 @@
-# calculadora
-calculadora individual 
+# CALCULADORA CLASE 
+ DESARROLLO CALCULADORA JENGUAJE HTML, CSS, JS
